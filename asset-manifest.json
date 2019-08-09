@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/complex-credit-card/static/css/main.8e09568f.chunk.css",
+    "main.js": "/complex-credit-card/static/js/main.6d23e145.chunk.js",
+    "main.js.map": "/complex-credit-card/static/js/main.6d23e145.chunk.js.map",
+    "runtime~main.js": "/complex-credit-card/static/js/runtime~main.f54a7e53.js",
+    "runtime~main.js.map": "/complex-credit-card/static/js/runtime~main.f54a7e53.js.map",
+    "static/js/2.65aa1cca.chunk.js": "/complex-credit-card/static/js/2.65aa1cca.chunk.js",
+    "static/js/2.65aa1cca.chunk.js.map": "/complex-credit-card/static/js/2.65aa1cca.chunk.js.map",
+    "index.html": "/complex-credit-card/index.html",
+    "precache-manifest.b89c4f2a1ec2007e5a3e391705c04cd7.js": "/complex-credit-card/precache-manifest.b89c4f2a1ec2007e5a3e391705c04cd7.js",
+    "service-worker.js": "/complex-credit-card/service-worker.js",
+    "static/css/main.8e09568f.chunk.css.map": "/complex-credit-card/static/css/main.8e09568f.chunk.css.map"
+  }
+}
